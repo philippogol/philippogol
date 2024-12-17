@@ -5,7 +5,7 @@
 Hi there! 👋 Welcome to my profile. I'm Philippo, an entrepreneur, developer, and innovator working on solutions to connect people and technology.
 
 ### About Me
-- 🌱 Currently building [FoxCast](https://github.com/philippogol/foxcast-dev), an interactive SaaS platform for pubs to enhance customer engagement.
+- 🌱 Currently building [FoxCast](https://www.playfoxcast.com), an interactive SaaS platform for pubs to enhance customer engagement.
 - 💡 Passionate about creating disruptive ideas that empower communities.
 - ⚽ Avid football fan and team player, on and off the field.
 - 🌍 Multicultural: Peruvian 🇵🇪, Swiss 🇨🇭, and Italian 🇮🇹.
@@ -23,5 +23,5 @@ I believe technology should not only solve problems but also inspire creativity 
 
 ### Let’s Connect!
 - 🌐 Website: [Tigers Agreement](https://www.tigers-agreement.com/)
-- 💼 LinkedIn: [Philippo Armando](https://linkedin.com/in/yourprofile)
-- 📧 Email: [philippogol@example.com](mailto:philippo@tigers-agreement.com)
+- 💼 LinkedIn: [Philippo Armando](https://linkedin.com/in/philippo-surber)
+- 📧 Email: [philippogol@tigers-agreement.com](mailto:philippo@tigers-agreement.com)
