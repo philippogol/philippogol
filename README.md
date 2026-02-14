@@ -1,6 +1,6 @@
 ## Disrupting and Enterprising 🚀
 
-![Tigers Agreement Banner](https://www.tigers-agreement.com/images/banner-2.png)
+![Tigers Agreement Banner](https://www.tigers-agreement.com/images/tigersagreement-2026.png)
 
 Hi there! 👋 Welcome to my profile. I'm Philippo, an entrepreneur, developer, and innovator working on solutions to connect people and technology.
 
